@@ -47,7 +47,7 @@ To aide in the replication, we have made available the following materials;
 2. List of threats, one from the Kubernetes scenario and one from the GitHub scenario
 3. Sample entry questionnaire
 4. Sample experiment survey
-5. python notebook (to be updated once we have replicated it with practitioners)
+5. python notebooks (for the pilot study and practitioner survey)
 
 ## How to cite us
 To be updated
